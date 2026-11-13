@@ -76,7 +76,7 @@ An early single-file version of the tool identifying a PBKDF2 hash, with confide
 You'll need Python 3.11 or newer, and [uv](https://docs.astral.sh/uv/) (a fast Python package manager — think pip, but quicker and it also handles virtual environments for you).
 
 ```bash
-git clone https://github.com/TinchoLay/Hash-Identifier.git
+git clone https://github.com/MartinChanca/Hash-Identifier.git
 cd Hash-Identifier
 uv sync
 ```
@@ -193,7 +193,7 @@ Una versión temprana de un solo archivo de la herramienta identificando un hash
 Necesitás Python 3.11 o más nuevo, y [uv](https://docs.astral.sh/uv/) (un gestor de paquetes de Python rápido — como pip, pero más veloz y que además maneja los entornos virtuales por vos).
 
 ```bash
-git clone https://github.com/TinchoLay/Hash-Identifier.git
+git clone https://github.com/MartinChanca/Hash-Identifier.git
 cd Hash-Identifier
 uv sync
 ```
